@@ -1,4 +1,4 @@
-streamlit
 pandas
+streamlit
 simplekml
-openpyxl
+xlrd>=2.0.1
